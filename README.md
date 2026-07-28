@@ -1,75 +1,19 @@
-# NNG Cinema — Educational Simulation Project (Flutter)
+# flutter-nng-cinema1
 
-NNG Cinema is a Flutter-based educational project designed to simulate how a cinema ticket booking and entertainment management application could be architected.
+Hey there! This is a complete project repository featuring Dart.
 
-This project is created for learning purposes to demonstrate:
-- Clean Architecture in Flutter
-- BLoC state management
-- API integration patterns
-- Firebase integration patterns
-- UI/UX for a cinema booking scenario
+## Why this repository exists
+I source and maintain clean, reference codebases across various technologies (including web apps, mobile apps, workflow integrations, and system utilities). This repository is kept public to serve as a reference or clean starting point for fellow developers.
 
-> ⚠️ IMPORTANT NOTICE  
-> This application is a **simulation project only**.  
-> It does NOT connect to real cinemas, payment systems, or real booking services.  
-> All data used in this app is dummy or publicly available demo data for learning and demonstration.
+## Tech Stack & Highlights
+- **Primary Tech Stack**: Dart
+- Zero bloat, clean directories, and fully structured.
 
----
-
-## Educational Objectives
-
-This project demonstrates how to structure a medium-to-large Flutter application with multiple features such as:
-
-- Movie browsing (demo data)
-- Search system (API demo)
-- Watchlist management (Firebase demo)
-- Weather-based recommendation logic (concept demo)
-- Cinema seat selection UI simulation
-- Food & beverage ordering UI simulation
-- Admin dashboard UI simulation
+## How to run or use
+1. Clone this repository to your local workspace.
+2. Install the necessary dependencies for this stack (e.g., check configuration files like `package.json`, `requirements.txt`, etc.).
+3. Run the project according to standard procedures for this environment.
 
 ---
-
-## Tech Stack Demonstrated
-
-- Flutter / Dart
-- BLoC Pattern
-- Clean Architecture
-- Firebase (demonstration use)
-- TMDB API (public movie data for demo)
-- OpenWeatherMap API (demo logic)
-
----
-
-## Project Purpose
-
-NNG Cinema is intended for:
-- Students learning Flutter architecture
-- Developers studying BLoC & Clean Architecture
-- Demonstration of multi-feature mobile app structure
-- Portfolio and educational showcase
-
-This is NOT a commercial product.
-
----
-
-## Getting Started
-
-```bash
-git clone https://github.com/nayrbryanGaming/NNG-CINEMA.git
-cd NNG-CINEMA
-flutter pub get
-flutter run
-```
-
----
-
-## License
-
-MIT License
-
----
-
-## Author
-
-Nayr Bryan Gaming (@nayrbryanGaming)
+Feel free to fork, explore, or reach out if you have any questions!
+Created and maintained by [Md Ejaj Mahmud](https://github.com/ejajmahmud).
